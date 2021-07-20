@@ -1,0 +1,22 @@
+html {
+  background-color: #e5e5e5;
+  margin-top: 2in;
+  text-align: center;
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 28pt;
+}
+
+h2 {
+  font-family: monospace;
+  line-height: 100px;
+  font-size: 15pt;
+}
+
+nav {
+  font-size: 3rem;
+  line-height: 60px;
+  margin-top: -6.75in;
+}
